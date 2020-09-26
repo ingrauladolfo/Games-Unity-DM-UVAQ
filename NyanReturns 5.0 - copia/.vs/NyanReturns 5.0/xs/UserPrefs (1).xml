@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{34DCCB7D-2E50-0A33-B9A5-19FF3FF2678B}|">
+  <MonoDevelop.Ide.ItemProperties.NyanReturns_2205.0 PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ChangeLevel.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ChangeLevel.cs" Line="9" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

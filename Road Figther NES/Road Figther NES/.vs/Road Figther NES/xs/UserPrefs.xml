@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{2ADF1743-73E0-AA2E-170D-69B149138FEA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/carController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/carController.cs" Line="61" Column="10" />
+      <File FileName="Assets/Scripts/uiManager.cs" Line="84" Column="31" />
+      <File FileName="Assets/Scripts/uiManager2.cs" Line="39" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="eb7ba3f1-3172-4541-9b24-3639b264d16f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,2011 @@
+fileFormatVersion: 2
+guid: e460b531e3a929d4397013c82d3e920d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_0
+    21300002: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_1
+    21300004: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_2
+    21300006: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_3
+    21300008: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_4
+    21300010: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_5
+    21300012: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_6
+    21300014: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_7
+    21300016: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_8
+    21300018: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_9
+    21300020: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_10
+    21300022: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_11
+    21300024: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_12
+    21300026: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_13
+    21300028: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_14
+    21300030: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_15
+    21300032: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_16
+    21300034: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_17
+    21300036: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_18
+    21300038: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_19
+    21300040: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_20
+    21300042: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_21
+    21300044: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_22
+    21300046: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_23
+    21300048: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_24
+    21300050: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_25
+    21300052: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_26
+    21300054: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_27
+    21300056: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_28
+    21300058: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_29
+    21300060: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_30
+    21300062: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_31
+    21300064: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_32
+    21300066: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_33
+    21300068: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_34
+    21300070: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_35
+    21300072: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_36
+    21300074: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_37
+    21300076: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_38
+    21300078: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_39
+    21300080: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_40
+    21300082: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_41
+    21300084: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_42
+    21300086: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_43
+    21300088: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_44
+    21300090: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_45
+    21300092: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_46
+    21300094: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_47
+    21300096: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_48
+    21300098: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_49
+    21300100: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_50
+    21300102: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_51
+    21300104: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_52
+    21300106: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_53
+    21300108: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_54
+    21300110: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_55
+    21300112: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_56
+    21300114: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_57
+    21300116: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_58
+    21300118: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_59
+    21300120: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_60
+    21300122: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_61
+    21300124: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_62
+    21300126: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_63
+    21300128: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_64
+    21300130: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_65
+    21300132: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_66
+    21300134: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_67
+    21300136: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_68
+    21300138: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_69
+    21300140: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_70
+    21300142: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_71
+    21300144: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_72
+    21300146: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_73
+    21300148: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_74
+    21300150: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_75
+    21300152: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_76
+    21300154: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_77
+    21300156: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_78
+    21300158: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_79
+    21300160: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_80
+    21300162: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_81
+    21300164: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_82
+    21300166: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_83
+    21300168: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_84
+    21300170: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_85
+    21300172: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_86
+    21300174: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_87
+    21300176: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_88
+    21300178: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_89
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1092
+        width: 56
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9fb11bd917f8744b363aa01104b51c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1091
+        width: 59
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24e993982cdb1f4b82a5810ec2e2e8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1090
+        width: 57
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579be6375a744a04aa5ca895ca9a1caf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1090
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0239bac7bf4bb5047aa7831479ff3af0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_4
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1091
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c030d581344ce7b47af9eeb07eb7b054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1089
+        width: 77
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e51fe53a065f7498ad0b604d4b614b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_6
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1089
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7bde18a5d1e2e46971ba3aeee0758c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_7
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1090
+        width: 115
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2755d31facef17e4e8fe168030ba38e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_8
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1089
+        width: 59
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16aaa274ff791ed46945aac188a35893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 957
+        width: 63
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e22bb012729274a94e8192b942965b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_10
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 957
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3052a9620bab143825e3f62a86b29f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 957
+        width: 53
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f311f315890ec2b4ea2901bb5729c684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_12
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 957
+        width: 53
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea5b56cdc1d15d47b320332a1aa7548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_13
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 957
+        width: 53
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afac7f6a0bb880e4397f0eb14f233261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_14
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 957
+        width: 56
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202df6eb73602ab4e97dc2caaaaa32f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_15
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 955
+        width: 53
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df350bd2ad9585741824a6ef87379840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_16
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 954
+        width: 46
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967525c1638d09f4484b5fa76591cda2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_17
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 954
+        width: 46
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a37b20b78c68f44afeeee28ca4cc36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_18
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 954
+        width: 70
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabe3e1da1c425a4f87734488ea80407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_19
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 953
+        width: 54
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa92c6fe5982864419c533e546c5dafc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_20
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 953
+        width: 54
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebc719dcb5789044bcceebfefc8723f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 826
+        width: 57
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf496a8543a91b34d8993f11b0524022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 826
+        width: 69
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00350196fc798f849bbbb52fe1230f9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 827
+        width: 98
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22f20ed39e23434fa61fc1598a68357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_24
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 826
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a50c18eb3daa0443835d4b6c1332295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_25
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 828
+        width: 73
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9b7cca7c243af4d9e3c53edd8814d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_26
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 827
+        width: 121
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf3e0438c3548d40831627feac72536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_27
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 825
+        width: 113
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7918ce48ba5994f8e31573e40efaae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 692
+        width: 73
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712cb2f1e1d5b424295f75c037a4b997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_29
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 692
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce51138471c95f24d936397a27b4d334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_30
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 692
+        width: 68
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccd20a78bc924e44af086d13d63c2d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_31
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 693
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecaf3e5232aea44b9e3191ee84edf52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_32
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 694
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ad1c92865d2fc488ea1ca17d63e860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_33
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 693
+        width: 101
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0ad93c8f75c1d449d7d56be4abfff9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_34
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 694
+        width: 85
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f7e7f866486814cb881cddbc9273bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_35
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 569
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc233eda84c7e8469d424733f31b1f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 570
+        width: 100
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88c60ea782edec46a9d30eb90acc60c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_37
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 570
+        width: 103
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae6a7117eb1f744d9c8831c476b07bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_38
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 570
+        width: 136
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3689e0bee0d48744be11451c1446cda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_39
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 564
+        width: 60
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c56729b47669464f95a7c294681a02c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_40
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 565
+        width: 58
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c86cd2c186b8794982e94fb5bc4663a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_41
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 565
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8b8d976768fd941ac9d4f93ce4c321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_42
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 569
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b2389a199649043aaf3d1d7a64569a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_43
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 435
+        width: 62
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafc8d590e0c90940ba43f5310295c41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_44
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 434
+        width: 64
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5ba43fd224d2848982e91469237857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_45
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 435
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b345f62da1297443a38b38c37415598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_46
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 438
+        width: 96
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f206fc2fae5063a458c981ca39956024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_47
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 434
+        width: 76
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bf0c5a0409e1e44b9f0bbadb71a7ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_48
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 434
+        width: 91
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85f403e21237bb488b002a9b2c9dbc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_49
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 433
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff803277836c9ea44b5558119cda1440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_50
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 434
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4615127e0230d704f9b40a66e217a1c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_51
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 436
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf634408f63db64ebf362b85194a01d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_52
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 320
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a173dc95d0673544819ea8cbd8b5489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_53
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 321
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4763e938038d514b8f54be20123b9b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_54
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 321
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3984377354b4d4296d7eba3151eef3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_55
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 346
+        width: 117
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1b8b26a38583743a15ecf8fbc068b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_56
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 343
+        width: 106
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb69cc6cdc50fa4e8c9123cd016477f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_57
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 342
+        width: 123
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cb3d594ffdcfb428b652e9f645a8f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_58
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 344
+        width: 124
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f28b03abb40c1742a3f22125e62a3db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_59
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 146
+        width: 109
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f138852f08066be43a03244a10df12ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 143
+        width: 108
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4ec2acdf5c31f4db6061761fe48180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_61
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 143
+        width: 98
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84acc2df6aa4d7d4f8405cf77b862149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_62
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 164
+        width: 112
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1127a9f3b8e9338458111800afbae1d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_63
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 142
+        width: 92
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf633c37022e9f41977b0e5459f7c25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_64
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 211
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e43ddb574b1c25419cfa578c87deb69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_65
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 215
+        width: 70
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae03a5a77a229da46a9ee56bd6055f9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_66
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 215
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415e5c261ba93184cac4babb9a4c56ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_67
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 215
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafcc99b094c9244abdde41d58550226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_68
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 192
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375d3aba95185734da3648c3875fe4ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_69
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 196
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a61c985d3d8694c8ae9efb23002597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_70
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 192
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87044191ebfbc1844b403786a5d58b9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_71
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 195
+        width: 61
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ff0a590db0f6f418871500d96cabdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_72
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 155
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee86388f58c93cf48989f01c6f8702a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_73
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 154
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e464b5540fdb54790f149913a75ab5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_74
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 157
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4f3c38b062a7f41a3af8bb9ab20c21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_75
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 154
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3f3e96958b62c4a91c85b6762ef312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_76
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 157
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180e7456e0b5d15448ffd1d2165faf66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_77
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 134
+        width: 65
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ed716c4be572b4c869d79d74f6807f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_78
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 10
+        width: 56
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4947ef04b98ef0f479fbfb913a739a72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_79
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 11
+        width: 59
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fa578182082e84f9b9b36c02dc7002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_80
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 12
+        width: 56
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61198047574c7d949a9e16e912aeee34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_81
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 13
+        width: 65
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d58060ce1d7e5499ea20e9542b8f77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_82
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 10
+        width: 157
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79def9bb74f16947926f875b17e6816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_83
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 90
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94f2af8801e77740ac165dda35596d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_84
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 96
+        width: 78
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e8a6a8931f4cd4cb7dad8114581618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_85
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 100
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45e77b4826ef3d489f5bb486cf05967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_86
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 96
+        width: 72
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d8b4a9261580144812785b07c8f8a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_87
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 62
+        width: 56
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a45b1f6b09ca664a943c34a7960c11b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_88
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 62
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3708622a93dcc43b9a45c1d1059da0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - The King of Fighters 94 - Rugal Bernstein Round 1_89
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 58
+        width: 73
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af10d6556eb2234a9ec68ddda134dcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
